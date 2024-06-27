@@ -1,2 +1,0 @@
-# rubywhatsapp
-from ruby
